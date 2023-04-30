@@ -1,5 +1,7 @@
 title: null
 name: null
+plugins:
+  - jekyll-remote-theme
 remote_theme: minima
 minima:
   date_format: "%d/%m/%Y"
