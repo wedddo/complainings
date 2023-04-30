@@ -1,6 +1,5 @@
 ---
-title: Complainings
+title: Welcome to my blog
 ---
-
 
 Test test test.
