@@ -1,6 +1,3 @@
-#theme: minima
+theme: minimal mistakes
 title: null
 name: null
-
-minima:
-    skin: dark
