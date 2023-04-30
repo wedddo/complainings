@@ -21,6 +21,8 @@ plugins:
 # Theme-specific settings
 
 minima:
+  date_format: "%d/%m/%Y"
+  skin: dark
   # Minima date format.
   # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
   #
