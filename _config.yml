@@ -1,6 +1,6 @@
 title: null
 name: null
-theme: minima
+remote_theme: minima
 minima:
-  date_format: "%d/%M/%Y"
+  date_format: "%d/%m/%Y"
   skin: dark
