@@ -1,3 +1,6 @@
 theme: minima
 title: null
 name: null
+
+minima:
+    skin: dark
