@@ -1,6 +1,6 @@
 ---
 title: "The Pain of Initialising OpenGL"
-date: 2022-04-30
+date: 2023-04-30
 ---
 
 ##### *If you're going to make your API forward compatible, don't do it like this.*
